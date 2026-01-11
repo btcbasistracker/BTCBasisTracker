@@ -17,7 +17,7 @@ Works offline — 100% client-side JavaScript
 
 🚀 How to Use
 Download or clone this repo:
-git clone https://github.com/your-username/btcbasistrackerlite.git
+git clone https://github.com/btcbasistracker/BTCBasisTracker.git
 Open index.html in any modern browser (Chrome, Firefox, Safari, Edge).
 Paste your data:
 ETF Flow Data: Daily net flows into Bitcoin ETFs (in millions USD)
