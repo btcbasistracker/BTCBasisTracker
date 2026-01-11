@@ -3,6 +3,7 @@ A lightweight, open-source web tool that calculates and visualizes the real-time
 
 Built for transparency, education, and community use. No backend required — runs entirely in your browser.
 
+🔗 Live Demo: https://btcbasistracker.github.io/BTCBasisTracker/
 🔗 How to use: Download index.html and open it in any modern browser.
 🐦 Follow for advanced insights: @btcbasistracker on X
 
